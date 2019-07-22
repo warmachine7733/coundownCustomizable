@@ -1,0 +1,17 @@
+.carContainer {
+  position: relative;
+  top: 10px;
+  padding: 10px;
+}
+.carousel.carousel-slider {
+  top: 5px !important;
+}
+/* .carousel .slide img {
+  display: block !important;
+  margin: auto !important;
+} */
+.carousel img{
+  height: 568px;
+  position: relative;
+  max-height: 100%
+}
